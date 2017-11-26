@@ -1,0 +1,6 @@
+BIOL2101:General Biology 1:4
+CHEM2101:General Chemistry 1:4
+COMP2101:Introduction To Computer Science:4
+MATH2107:Calculus 1:4
+LANC2058:Comunication in Science:3
+STAT1001:Introduction To Statistics:4
